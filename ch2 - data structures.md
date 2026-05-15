@@ -1,4 +1,4 @@
-# Data structures And Functions
+# Data structures
 
 ## Arrays
 
